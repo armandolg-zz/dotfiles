@@ -1,1 +1,1 @@
-This repository contains my personal dotfiles.
+# This repository contains my personal dotfiles.
